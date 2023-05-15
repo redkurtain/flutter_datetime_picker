@@ -1,7 +1,7 @@
-name: flutter_datetime_picker_bdaya
+name: flutter_datetime_picker_with_today_button
 description: A date time picker for flutter, you can choose date / time / date&time in English Dutch and Chinese, and you can also custom your own picker content
-version: 3.0.1
-homepage: https://github.com/Bdaya-Dev/flutter_datetime_picker
+version: 3.0.2
+homepage: https://github.com/redkurtain/flutter_datetime_picker
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
